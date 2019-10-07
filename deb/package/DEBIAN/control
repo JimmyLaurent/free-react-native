@@ -1,0 +1,15 @@
+Package: com.example.yourproject
+Name: YourProject
+Depends: firmware(>= 10.0), mobilesubstrate
+Conflicts:
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: You project description
+Homepage: http://yoursite.com
+Depiction: http://yoursite.com
+Maintainer: YourName
+Author: YourName
+Sponsor: YourSponsor
+Section: Applications
+dev: YourName
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12

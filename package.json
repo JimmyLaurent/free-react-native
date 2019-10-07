@@ -1,0 +1,24 @@
+{
+  "name": "rn-free-ios-sandbox",
+  "description": "Convert your react native app for jailbroken ios development",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "xcode": "^2.0.0"
+  },
+  "bin": {
+    "rn-free-ios-sandbox": "./index.js"
+  },
+  "keywords": [
+    "jailbreak",
+    "ios",
+    "sandbox",
+    "cydia"
+  ],
+  "author": "Jimmy Laurent",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JimmyLaurent/rn-free-ios-sandbox.git"
+  }
+}
