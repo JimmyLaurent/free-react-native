@@ -1,6 +1,6 @@
-# rn-free-ios-sandbox
+# free-react-native
 
-[![npm](https://img.shields.io/npm/dm/rn-free-ios-sandbox.svg?maxAge=2592000)](https://npm-stat.com/charts.html?package=rn-free-ios-sandbox)
+[![npm](https://img.shields.io/npm/dm/free-react-native.svg?maxAge=2592000)](https://npm-stat.com/charts.html?package=free-react-native)
 
 Tool to setup your react-native project to build deb packages for jailbroken devices.
 
@@ -16,9 +16,9 @@ Prerequisites:
 Configure ssh keys to easily connect to your iphone => https://gist.github.com/DomiR/8870918
 
 ```bash
-npm i -g rn-free-ios-sandbox
+npm i -g free-react-native
 cd your-react-native-project
-rn-free-ios-sandbox
+free-react-native
 ```
 
 ## Overview
