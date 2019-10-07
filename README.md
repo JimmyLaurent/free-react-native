@@ -17,7 +17,7 @@ Configure ssh keys to easily connect to your iphone => https://gist.github.com/D
 
 ```bash
 npm i -g rn-free-ios-sandbox
-cd /your-react-native-project
+cd your-react-native-project
 rn-free-ios-sandbox
 ```
 
@@ -25,7 +25,7 @@ rn-free-ios-sandbox
 
 - add script commands to "package.json" to build and deploy,
 - create a "deb/package" folder wich contains the structure of your future deb package, 
-- edit the xcode pbxproj to remove code signing and add a post build scripts
+- edit the xcode pbxproj to remove code signing and add a post build script
 - add a post build script ("deb/postBuildScript.sh") to deploy and sign your package with "ldid"
 - add a deploy script ("deb/deploy.sh"), you have to customize it.
 
